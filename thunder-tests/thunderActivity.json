@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "218a322c-85a2-4aa9-b3dc-2e7eb089b7ae",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3001/split",
+    "url": "http://localhost:3001/split",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-04-14T03:01:35.739Z",
+    "modified": "2023-04-14T03:02:41.012Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "binary",
+      "raw": "",
+      "form": [],
+      "binary": "../Quarterly Report for Gaming Affinity Group.pdf"
+    },
+    "tests": []
+  },
+  {
+    "_id": "6afdcc30-2117-40ce-a2bb-c65b5b252158",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3001/split",
+    "url": "http://localhost:3001/split",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-04-14T03:02:45.690Z",
+    "modified": "2023-04-14T03:02:45.690Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "binary",
+      "raw": "",
+      "form": [],
+      "binary": "../Quarterly Report for Gaming Affinity Group.pdf"
+    },
+    "tests": []
+  },
+  {
+    "_id": "51735b63-ffe4-4928-a1bf-000cc3da2dfb",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3001/pdf/split",
+    "url": "http://localhost:3001/pdf/split",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-04-14T03:03:07.584Z",
+    "modified": "2023-04-14T03:05:18.046Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "formdata",
+      "raw": "",
+      "form": [],
+      "files": [
+        {
+          "name": "file",
+          "value": "../Quarterly Report for Gaming Affinity Group.pdf"
+        }
+      ]
+    },
+    "tests": []
+  }
+]
